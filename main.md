@@ -40,6 +40,7 @@
 - PC에서
   - [VSCode](https://code.visualstudio.com/Download)
   - [CHECK Expert+](http://www.check.co.kr/)
+  - git
 - Mobile에서
   - [ETF CHECK](https://play.google.com/store/apps/details?id=com.koscom.etpportal&hl=ko&gl=US&pli=1) 설치
   - [CHECK m+](https://apps.apple.com/us/app/checkm/id1637536723) 설치
@@ -71,9 +72,8 @@
 
 ***
 
-## 🔶끝내기 전에
-- 단 한 가지라도 도움이 될 만한 / 기억에 남을 만한 시간이 되었기를
-- 언제 어디서 어떻게 만나더라도 반가울 수 있기를
+## 🔶[끝내기 전에](./sub_bye.md)
+
    
    
 *(끝)*
