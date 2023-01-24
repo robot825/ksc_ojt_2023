@@ -4,7 +4,7 @@
 
 ### Markdown을 써보면 어떨까?
 
-- [Markdown Cheat Sheet 1](https://www.markdownguide.org/cheat-sheet/): [try](./sub_manual_test.html)
+- [Markdown Cheat Sheet 1](https://www.markdownguide.org/cheat-sheet/): [try](./sub_manual_test.md)
 - [Markdown Cheat Sheet 2](https://www.google.com/search?q=markdown+cheat+sheet&tbm=isch&ved=2ahUKEwjy15uy0NX8AhVDS_UHHf4ZArwQ2-cCegQIABAA&oq=markdown+cheat+sheet&gs_lcp=CgNpbWcQAzIECCMQJzIHCAAQgAQQEzIHCAAQgAQQEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBNQAFgAYKoFaABwAHgAgAGIAYgBiAGSAQMwLjGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GEPKY_LrB8OW1e8P_rOI4As&bih=952&biw=1858)
 
 ***
@@ -48,4 +48,4 @@
 - git에 올리기
 
 ***
-[🚀 메인으로 돌아가기](./main.html)
+[🚀 메인으로 돌아가기](./main.md)
