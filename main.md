@@ -158,7 +158,7 @@
 
 ### ➡️ 그래서 최대한 간단하게
 
-- [경제지표(TR2001)](./img/devopr3.png)
+- 2022 직원A의 최고 업적: [경제지표(TR2001)](./img/devopr3.png)
 - [업무시간](./img/devopr4.jpg)
 - [휴식시간](./img/devopr2.png)
 
@@ -247,7 +247,6 @@
   > [협력의 진화 - Tit for tat](./pt/titfortat.pdf)
 
 ***
-
 
 ## 🔶끝내기 전에
 
