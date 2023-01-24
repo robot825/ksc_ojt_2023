@@ -3,8 +3,7 @@
 
 ### 대외용
 - [회사 홈페이지](https://www.koscom.co.kr)
-- [CHECK 홈페이지](https://www.check.co.kr)
-> ssl 인증서 갱신할 것...!!
+- [CHECK 홈페이지](http://www.check.co.kr)
 - [데이터몰](https://datamall.koscom.co.kr)
 - [마켓데이터서비스](https://data.koscom.co.kr)
 - [기업주가](https://cyberir.koscom.co.kr)
