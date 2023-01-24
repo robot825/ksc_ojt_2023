@@ -3,7 +3,7 @@
 
 ### 대외용
 - [회사 홈페이지](https://www.koscom.co.kr)
-- [CHECK 홈페이지](https://www.check.co.kr)
+- [CHECK 홈페이지](http://www.check.co.kr)
 - [데이터몰](https://datamall.koscom.co.kr)
 - [마켓데이터서비스](https://data.koscom.co.kr)
 - [기업주가](https://cyberir.koscom.co.kr)
@@ -39,8 +39,8 @@
 
 ***
 ### 관리 도구
-- ETPADMIN
-- CHECKTOOL
+- [ETPADMIN](https://etpadmin.koscom.co.kr)
+- [CHECKTOOL](https://checktool.koscom.co.kr/admintool)
 
 ...
 

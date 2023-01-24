@@ -1,4 +1,4 @@
-# 2023 본부별 OJT - 데이터사업본부 1일차
+# 2023 본부별 OJT - 데이터사업본부 1일차 (#top)
 > author: CHECK사업부 안지원   
 > created: 2023-01-20   
 > updated: 2023-01-25
@@ -27,9 +27,9 @@
   - 주어진 시간은 애매하고
     - 코딩을 해보기엔 너무 짧고
     - 업무 설명만 하기엔 너무 길고
-  - 그래서 우리 팀뿐만 아니라 우리 회사 어느 곳에서 근무하든 도움될 것 같은
+  - 그래서 우리 팀뿐만 아니라 우리 회사 어느 곳에서 근무하든 도움될( 것 같은)
   - 사회생활 초년기에 알았다면 좋지 않았을까 하는 **회사생활 팁**들 위주로 준비
-  - 오늘 해보는 내용들이 성향에 맞는 사람이라면 우리 팀 분위기와 업무에도 잘 맞을 것 같음
+  - 오늘 해보는 내용들이 성향에 맞는 사람이라면 우리 팀 분위기와 업무에도 잘 맞을 것 같다는 개인적 의견
 
 ### 오늘 하루를 보내는 동안
 - 각자 메일, 매뉴얼 등도 작성해보고
@@ -53,8 +53,8 @@
   - [CHECK m+](https://apps.apple.com/us/app/checkm/id1637536723) 설치
 - git repository clone
   - [https://github.com/jwahn/ksc_ojt_2023.git](https://github.com/jwahn/ksc_ojt_2023.git)
-- VSCode extensions
-  - markdown all in one
+- ~~VSCode extensions~~
+  - ~~markdown all in one~~
 ***
 ## 🔶우리 팀 업무 소개
 
@@ -130,6 +130,8 @@
    
    
 *(끝)*
+
+[hash test](#top)
 
 
 
