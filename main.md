@@ -45,9 +45,9 @@
 > 인터넷이 많이 느리겠지만...
 
 - PC에서
-  - [VSCode](https://code.visualstudio.com/Download)
+  - ~~[VSCode](https://code.visualstudio.com/Download)~~
   - [CHECK Expert+](http://www.check.co.kr/)
-  - git
+  - [git](https://git-scm.com/downloads)
 - Mobile에서
   - [ETF CHECK](https://play.google.com/store/apps/details?id=com.koscom.etpportal&hl=ko&gl=US&pli=1) 설치
   - [CHECK m+](https://apps.apple.com/us/app/checkm/id1637536723) 설치
