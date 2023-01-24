@@ -1,4 +1,4 @@
-# 2023 본부별 OJT - 데이터사업본부 1일차
+# 2023 본부별 OJT - 데이터사업본부 1일차 (#top)
 > author: CHECK사업부 안지원   
 > created: 2023-01-20   
 > updated: 2023-01-25
@@ -85,7 +85,7 @@
    
 *(끝)*
 
-[hash test](#sub_stack)
+[hash test](#top)
 
 
 
