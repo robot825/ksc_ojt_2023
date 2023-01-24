@@ -53,8 +53,8 @@
   - [CHECK m+](https://apps.apple.com/us/app/checkm/id1637536723) 설치
 - git repository clone
   - [https://github.com/jwahn/ksc_ojt_2023.git](https://github.com/jwahn/ksc_ojt_2023.git)
-- VSCode extensions
-  - markdown all in one
+- ~~VSCode extensions~~
+  - ~~markdown all in one~~
 ***
 ## 🔶우리 팀 업무 소개
 
