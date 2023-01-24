@@ -39,8 +39,8 @@
 
 ***
 ### 관리 도구
-- ETPADMIN
-- CHECKTOOL
+- [ETPADMIN](https://etpadmin.koscom.co.kr)
+- [CHECKTOOL](https://checktool.koscom.co.kr)
 
 ...
 
