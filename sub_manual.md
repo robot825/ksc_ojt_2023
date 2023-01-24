@@ -2,14 +2,14 @@
 > 초년생 때부터 열심히 해왔다면 가장 좋았을 것 같은 주제
 ***
 
-### Markdown을 써보면 어떨까?
+#### Markdown을 써보면 어떨까?
 
 - [Markdown Cheat Sheet 1](https://www.markdownguide.org/cheat-sheet/): [try](./sub_manual_test.md)
 - [Markdown Cheat Sheet 2](https://www.google.com/search?q=markdown+cheat+sheet&tbm=isch&ved=2ahUKEwjy15uy0NX8AhVDS_UHHf4ZArwQ2-cCegQIABAA&oq=markdown+cheat+sheet&gs_lcp=CgNpbWcQAzIECCMQJzIHCAAQgAQQEzIHCAAQgAQQEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBMyCAgAEAcQHhATMggIABAHEB4QEzIICAAQBxAeEBNQAFgAYKoFaABwAHgAgAGIAYgBiAGSAQMwLjGYAQCqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GEPKY_LrB8OW1e8P_rOI4As&bih=952&biw=1858)
 
 ***
 
-### Markdown 사용을 추천하는 이유
+#### Markdown 사용을 추천하는 이유
 - github 에서 쓰고 있음
 - 우리 팀에서 쓰고 있음
 - 생각을 빠르고 간단하게 구조화 + 서식화 할 수 있음
@@ -26,7 +26,7 @@
 
 ***
 
-### 매뉴얼 작성할 때
+#### 매뉴얼 작성할 때
 - 갑자기 장애가 나서 처리해야 하는데, 지금 당장 이 일을 해결해 줄 사람이 우리 사장님 밖에 없음. 사장님이 내 자리에 오셔서 이 매뉴얼만 보고 순서대로 따라 해도 처리가 가능하다면? 좋지 않을까?
 - 현재의 내가 '**미래의 나**'에게 보내는 선물이다. 언젠간 과거의 나에게 고마워 할 날이 온다.
 - 중요한 **키워드**는 다양한 방식으로 문서 제목과 내용에 포함 시키고 태그 등으로도 표시해 놓자.
@@ -40,7 +40,7 @@
 
 ***
 
-### 💦 과제
+#### 💦 과제
 - 다음 중 하나에 대한 매뉴얼을 md 포맷으로 작성하여
   - ETF CHECK에 **가입**해서 프로필 사진 바꾸는 방법
   - CHECK TR2001의 **차트**에서 기사 작성용 멀티 차트 만들어서 이미지로 저장하는 방법

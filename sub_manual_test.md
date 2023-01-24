@@ -1,7 +1,7 @@
 
 # H1
 ## H2
-### H3
+### 🔹H3
 
 **bold text**
 
@@ -44,7 +44,7 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### My Great Heading {#custom-id}
+### 🔹My Great Heading {#custom-id}
 
 
 term
