@@ -40,7 +40,7 @@
 ***
 ### 관리 도구
 - [ETPADMIN](https://etpadmin.koscom.co.kr)
-- [CHECKTOOL](https://checktool.koscom.co.kr)
+- [CHECKTOOL](https://checktool.koscom.co.kr/admintool)
 
 ...
 
