@@ -6,20 +6,20 @@
 ### 그럼에도 불구하고
 - 진리의 회바회겠지만
 - 우리 회사는 좀 이런 느낌이
-  - [첫번째](./img/comp1.jfif)
-  - [두번째](./img/comp2.jfif)
+  - [첫번째](./img/comp1.png)
+  - [두번째](./img/comp2.png)
   - [세번째](./img/comp3.jpeg)
-  - [네번째](./img/comp4.jfif)
+  - [네번째](./img/comp4.png)
 
 ***
 
 ### 고민1. 대답은 어떻게 하는게 좋을까?
-- [많은 이들이](./img/att11.webp) [고민하는 주제](./img/att12.jfif)
+- [많은 이들이](./img/att11.webp) [고민하는 주제](./img/att12.png)
 
 ***
 
 ### 고민2. 회식은 꼭 가야 하는 것일까?
-- [트렌드에 맞게](./img/att1.jfif)
+- [트렌드에 맞게](./img/att1.png)
 
 ***
 
