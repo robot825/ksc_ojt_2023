@@ -45,14 +45,16 @@
 ### ➡️ 프로그램/앱 다운로드와 설치
 > 인터넷이 많이 느리겠지만...
 
+- 개인 핫스팟 쓸 경우
+  - 블루투스로 연결
 - PC에서
   - ~~[VSCode](https://code.visualstudio.com/Download)~~
   - ~~VSCode extensions~~
     - ~~markdown all in one~~
-  - [CHECK Expert+](http://www.check.co.kr/)
-  - [git](https://git-scm.com/downloads)
 - git repository clone
   - [https://github.com/jwahn/ksc_ojt_2023.git](https://github.com/jwahn/ksc_ojt_2023.git)
+  - [CHECK Expert+](http://www.check.co.kr/)
+  - [git](https://git-scm.com/downloads)
 - Mobile에서
   - [ETF CHECK](https://play.google.com/store/apps/details?id=com.koscom.etpportal&hl=ko&gl=US&pli=1) 설치
   - [CHECK m+](https://apps.apple.com/us/app/checkm/id1637536723) 설치
